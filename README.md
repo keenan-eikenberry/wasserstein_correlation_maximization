@@ -1,0 +1,1 @@
+Code for paper: Invariant Representations via Wasserstein Correlation Maximization
